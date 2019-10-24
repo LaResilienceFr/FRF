@@ -7,3 +7,6 @@ Ce plan de radiocommunication des Fréquences Résilientes Françaises n’est a
 Le tableau ci-dessous présente les 3 bandes de fréquences HF, VHF et UHF avec pour chacune les canaux importants à retenir. Faites en bon usage en respectant pour chacune des bandes, les réglementations et les procédures de communications.
 
 https://www.la-resilience.fr/2019/09/plan-radio-des-frequences-resilientes-francaises/
+
+Pour Baofeng UV-5R avec avec Micrologiciel BFB297 et 106 Preset :
+https://github.com/LaResilienceFr/Baofeng-UV-5R/blob/master/Firmwares/BFB297_LaResilienceFr-106.img
